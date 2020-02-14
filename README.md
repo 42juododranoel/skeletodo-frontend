@@ -1,4 +1,9 @@
-# frontend
+![Скелетор говорит: “I give myself permission to be fabulous“](https://github.com/vsevolod-skripnik/skeletodo-wiki/blob/master/memes/fabulous.jpg?raw=True)
+
+# Фронтенд «Скелетодо»
+
+[Подробнее на вики.](https://github.com/vsevolod-skripnik/skeletodo-wiki)
+
 
 ## Project setup
 ```
